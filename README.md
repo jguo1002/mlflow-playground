@@ -6,8 +6,8 @@ Learn how to use mlflow
 ```sh
 python3 -m venv .mlflow
 source .mlflow/bin/activate
- pip install -r requirements.txt 
- ```
+pip install -r requirements.txt 
+```
 
 ## Clone Examples 
 

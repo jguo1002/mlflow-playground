@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 
 .mlflow
+mlruns/
+outputs/
